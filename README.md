@@ -1,4 +1,6 @@
-Project Description: A simple todo list application putting together basic front end concepts taught in Angela Yu's "The Complete 2020 Wev Development Bootcamp." This uses Express on node.js to create a stand alone application that allows a user to input a customized todo list for today's date. It also contains the ability to create a "work list" to separate day tasks from work tasks. 
+Project Description: 
+
+A simple todo list application putting together basic front end concepts taught in Angela Yu's "The Complete 2020 Wev Development Bootcamp." This uses Express on node.js to create a stand alone application that allows a user to input a customized todo list for today's date. It also contains the ability to create a "work list" to separate day tasks from work tasks. 
 
 How to build:
 
